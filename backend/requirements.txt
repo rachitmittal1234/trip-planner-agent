@@ -1,0 +1,11 @@
+langgraph
+langgraph-checkpoint-sqlite
+langchain
+langchain-google-genai
+langchain-core
+fastapi
+uvicorn
+tavily-python
+reportlab
+python-dotenv
+requests
